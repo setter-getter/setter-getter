@@ -19,8 +19,8 @@ Here are some ideas to get you started:
  ***
  #### My skills and completed tasks:
  
- * [SQL](https://github.com/setter-getter/SQL) [sql-ex](https://github.com/setter-getter/sql-ex)
+ * [SQL](https://github.com/setter-getter/SQL) | [sql-ex](https://github.com/setter-getter/sql-ex)
  * [Linux Bash Commands](https://github.com/setter-getter/bash_commands)
  * [Postman](https://github.com/setter-getter/Postman)
- * [Java Script](https://github.com/setter-getter/HW_JS) [js_learning](https://github.com/setter-getter/js_learning)
- * [GitHub](https://github.com/setter-getter/JSON) [git_branches](https://github.com/setter-getter/git_branches)
+ * [Java Script](https://github.com/setter-getter/HW_JS) | [js_learning](https://github.com/setter-getter/js_learning)
+ * [GitHub](https://github.com/setter-getter/JSON) | [git_branches](https://github.com/setter-getter/git_branches)
