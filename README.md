@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ I'm currently studying the profession QA Engineer
-- 🌱 I am currently a student on the course Vadim Ksendzov
+- 🌱 Currently, I am a student on the course Vadim Ksendzov
  ***
  #### My skills and completed tasks:
  
